@@ -1,3 +1,3 @@
 # Private Policy
 
-We don't collect your datas because we have nowhere for it. We don't even have a server or database to put it if we wanted to.
+We don't collect your data and don't use it, or transfer any of it because we don't collect any.
