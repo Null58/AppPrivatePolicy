@@ -1,1 +1,1 @@
-# Private Policy for applications created by us
+# Private Policy for applications created by me
