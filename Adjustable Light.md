@@ -1,0 +1,1 @@
+No data is ever sent from our app `Adjustable Light`, we don't collect *ANY* data on or off your device, we don't send *ANY* data because we don't collect *ANY* data, no data is ever stored anywhere, ever, this will never change.
